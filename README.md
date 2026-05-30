@@ -14,7 +14,7 @@
 
 - 🎓 Estudiante de Ingeniería Electrónica en la UAEMex.
 - 🚀 Desarrollando aviónica y una computadora de vuelo modular para el Latin American Space Challenge (LASC).
-- ⚡ Fomentando la cultura "Hazlo tú mismo" en el Capítulo SAFI.
+- ⚡ Fomentando la cultura en el Capítulo SAFI.
 - 🛠️ Apasionado por el ruteo de placas, la telemetría por radiofrecuencia y la manufactura con CNC.
 - 🌱 Actualmente profundizando en el análisis matemático de sistemas y procesamiento de señales.
 
